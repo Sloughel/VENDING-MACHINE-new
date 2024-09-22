@@ -1,0 +1,7 @@
+﻿  Vending machine new.c
+D:\visualstudio\Vending machine new\Vending machine new\Vending machine new.c(23,4): warning C4047: “=”:“commodity_list *”与“commodity_list (*)[5]”的间接级别不同
+D:\visualstudio\Vending machine new\Vending machine new\Vending machine new.c(28,4): warning C4047: “=”:“commodity_list *”与“commodity_list (*)[5]”的间接级别不同
+D:\visualstudio\Vending machine new\Vending machine new\Vending machine new.c(30,6): warning C4133: “函数”: 从“commodity_list *”到“commdity_list *”的类型不兼容
+D:\visualstudio\Vending machine new\Vending machine new\Vending machine new.c(412,2): warning C4098: “buy”:“void”函数返回值
+D:\visualstudio\Vending machine new\Vending machine new\Vending machine new.c(415,5): warning C4026: 使用形参表声明的函数
+  Vending machine new.vcxproj -> D:\visualstudio\Vending machine new\x64\Debug\Vending machine new.exe
